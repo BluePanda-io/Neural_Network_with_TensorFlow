@@ -1,21 +1,11 @@
-# Image Processing Masks-Convolution
+# Neural Network with TensorFlow
 
-Developing from Scratch Filters that change Images and apply them via Convolution With the purpose to Uderstand the Basics of Image Processing - Originally developed 04/05/2018
+Using TensorFlow framework to create a simple Neural Network as an introduction to the feild - Originally developed 08/03/2019
 
 
 
 ## In this project it was developed 
-1. A function 
+1. In this project we are going a step ferther by using a framework and more specifically TensorFlow to develop the Neural Network, you can find the actual project on the Jupyter Notebook
 
 ## Results of the Project 
-<img src="Images/1_GrayScaleAndRGBtoBluredImages.png" width="600">
-
-## What I learned from this Project
-
-## What was the project difficulties 
-
-## My solutions to the difficulties
-
-## Notable Features
-
-## Technology Used 
+<img src="Images/img/crossEntropy.png" width="400">
